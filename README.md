@@ -4,7 +4,7 @@
 
 **AI & Web Dev Specialist | Patent Innovator | Startup Founder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajat-balyan-blue)](https://linkedin.com/in/rajat-balyan) [![Website](https://img.shields.io/badge/Website-rajatbalyan.com-darkgreen)](https://rajatbalyan.com) [![Mail](https://img.shields.io/badge/Email-balyanrajat1812%40gmail.com-red)](mailto:balyanrajat1812.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajatbalyan-blue)](https://linkedin.com/in/rajat-balyan) [![Website](https://img.shields.io/badge/Website-rajatbalyan.com-darkgreen)](https://rajatbalyan.com) [![Mail](https://img.shields.io/badge/Email-balyanrajat1812%40gmail.com-red)](mailto:balyanrajat1812.com)
 
 ---
 
