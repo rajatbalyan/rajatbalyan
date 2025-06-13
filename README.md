@@ -28,7 +28,7 @@ I thrive at the intersection of research and product: from prototyping AI agents
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatbalyan&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatbalyan&show_icons=true&theme=vision-friendly-dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatbalyan&show_icons=true&theme=vision-friendly-dark) -->
 
 ---
 
