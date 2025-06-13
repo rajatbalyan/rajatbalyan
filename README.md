@@ -10,30 +10,27 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in CSE** (Class of 2026) at Uttaranchal University, Dehradun
-- 🚀 Founder @ **Meta Catalyst Pvt. Ltd.** & **Asvara Innovations Pvt. Ltd.**
-- 📝 **50+ patents** granted & **10+ research papers** published
-- 💡 Passionate about building AI agents, cloud automation, and scalable web systems
-- 🏆 1st Prize @ Cognizance 2025 (IIT-Roorkee), 5× Hackathon Winner, Intel Developer Spotlight
+I’m a third-year CSE student at Uttaranchal University (Class of 2026), and the driving force behind two AI-focused startups—Meta Catalyst and Asvara Innovations. With 50+ patents, 10+ research papers, and multiple hackathon wins under my belt, I’m dedicated to crafting AI agents and cloud-native systems that solve real-world challenges.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatbalyan&layout=compact&theme=vision-friendly-dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatbalyan&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
 ## 🛠️ Core Expertise
 
-| Domain                        | Tools & Technologies                                |
-|-------------------------------|----------------------------------------------------|
-| **AI & Machine Learning**     | Python · TensorFlow · PyTorch · LangChain · LLaMA   |
-| **Web & Cloud Automation**    | Next.js · FastAPI · GitHub Actions · GCP           |
-| **DevOps & Infrastructure**   | Docker · Kubernetes · CI/CD · MongoDB               |
-| **Data Structures & Algos**   | Algorithms · System Design · Performance Tuning     |
-| **Full-Stack Development**    | React · React Native · Streamlit · RESTful APIs     |
+| 🔍 Domain                      | 🛠️ Tools & Technologies                             |
+|--------------------------------|-----------------------------------------------------|
+| 🤖 AI & Machine Learning       | Python · TensorFlow · PyTorch · LangChain · LLaMA   |
+| ☁️ Web & Cloud Automation      | Next.js · FastAPI · GitHub Actions · GCP           |
+| 🔧 DevOps & Infrastructure     | Docker · Kubernetes · CI/CD · MongoDB               |
+| 📊 Data Structures & Algos     | Algorithms · System Design · Performance Tuning     |
+| 🌐 Full-Stack Development      | React · React Native · Streamlit · RESTful APIs     |
 
 ---
 
@@ -48,27 +45,23 @@
 ### [Skin Disease Diagnosis System](https://github.com/rajatbalyan/skin-diagnosis)
 > Web app using CNN & LLMs for symptom management; achieved **92%** accuracy and featured in **Intel Developer Spotlight**.
 
-> 🎥 Check out live demos in the Project Pages!
-
 ---
 
 ## 📚 Learning & Interests
 
 Currently exploring:
 
-- Advanced **Vertex AI** Pipelines for production workflows
-- **Web3** & **Blockchain** integrations for decentralized apps
-- **React Native CLI** for mobile innovations
+- Advanced **Vertex AI** Pipelines
+- **Web3** & **Blockchain** integrations
+- **React Native CLI** enhancements
 
 ---
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate, hack together, or just chat about AI and automation!
-
 - 🔗 Portfolio: [rajatbalyan.com](https://rajatbalyan.com)
 - 🐦 Twitter: [@rajat_balyan](https://twitter.com/rajat_balyan)
-- 📩 Email: rahat@example.com
+- 📩 Email: rajat@example.com
 
 ---
 
