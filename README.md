@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=rajatbalyan&color=blue" alt="Profile views" />
 </div>
 
-👋 Hello! I’m Rajat—a third-year CSE undergrad (Class of 2026) with a passion for AI-driven innovation. As the founder of **Meta Catalyst** and **Asvara Innovations**, I’ve:
+👋 Hello! I’m Rajat—a third-year CSE undergrad (Class of 2026) with a passion for AI-driven innovation. I've:
 
-- 💡 **Patented** 50+ AI/IoT concepts and **published** 10+ research papers
-- 🚀 **Won** multiple hackathons and took **1st Prize** at Cognizance 2025 (IIT-Roorkee)
 - 🔗 **Built** cloud-native systems and automation tools that solve real-world challenges
+- 🚀 **Won** multiple hackathons and took **1st Prize** at Cognizance 2025 (IIT-Roorkee)
+- 💡 **Patented** 50+ AI/IoT concepts and **published** 10+ research papers
 
 I thrive at the intersection of research and product: from prototyping AI agents to deploying scalable web services. Let’s push the boundaries of what’s possible!  
 
