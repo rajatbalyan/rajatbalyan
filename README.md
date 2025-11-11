@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajatbalyan&color=blue" alt="Profile views" />
 </div>
 
-👋 Hello! I’m Rajat—a third-year CSE undergrad (Class of 2026) with a passion for AI-driven innovation. I've:
+👋 Hello! I’m Rajat—a fourth-year CSE undergrad (Class of 2026) with a passion for AI-driven innovation. I've:
 
 - 🔗 **Built** cloud-native systems and automation tools that solve real-world challenges
 - 🚀 **Won** multiple hackathons and took **1st Prize** at Cognizance 2025 (IIT-Roorkee)
