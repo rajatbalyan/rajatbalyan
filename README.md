@@ -64,7 +64,7 @@ Multi-agent framework built on LangChain + LangGraph that autonomously crawls we
 
 ---
 
-### 🤖 [Melago — Decentralised AI Medical Diagnosis](https://github.com/rajatbalyan/melago)
+### 🤖 [Melago — Decentralised AI Medical Diagnosis](https://github.com/rajatbalyan/uAgents---IIT-Hackathon/tree/main/integrations/megalo-apimedic-mongo)
 > Agentic self-diagnosis system using decentralised AI agents
 
 Medical self-diagnosis platform powered by decentralised AI agents, reducing user search time by 40% and enabling early detection of conditions via symptom analysis.
@@ -73,7 +73,7 @@ Medical self-diagnosis platform powered by decentralised AI agents, reducing use
 
 ---
 
-### 🧬 [Skin Disease Diagnosis System](https://github.com/rajatbalyan/skin-diagnosis)
+### 🧬 [Skin Disease Diagnosis System](https://github.com/rajatbalyan/SkinDiseasesDiagnosis-IntelHackathon)
 > Featured in Intel Developer Spotlight
 
 CNN + LLM web app for skin disease classification; achieved 92% accuracy. Featured by the Intel Developer Community.
