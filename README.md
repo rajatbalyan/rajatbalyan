@@ -23,8 +23,8 @@ Previously won **1st Prize at IIT Roorkee Cognizance 2025** for [Site Sentry](ht
 
 - 🏆 1st Prize — Cognizance 2025 (IIT Roorkee) · AgentX / Site Sentry
 - ☁️ $25K GCP Credits — Google Cloud Startup Program (Asvara Innovations)
-- 🧠 69 Google Cloud Skill Badges
-- 🔬 Fine-tuned a 671B-parameter LLM (DeepSeek R1) on domain-specific legal corpora
+- 🧠 69 Google Cloud Skill Badges ([Google Cloud Skill Boost Public Profile](https://www.skills.google/public_profiles/f3f99b18-eb60-475d-9c7b-b601f28e9c6a))
+- 🔬 Fine-tuned a 671B-parameter LLM (DeepSeek R1) on domain-specific legal corporation
 - 📍 India · Open to remote roles
 
 ---
